@@ -1,5 +1,5 @@
 
-# Chat Back end do
+# FakeZap - Backend
 
 Aplicativo de chat utilizando socket.io.
 
@@ -45,7 +45,7 @@ Inicie o servidor
 
 ## Autores
 
-- [@octokatherine](https://github.com/mgunnar)
+- [@mgunnar](https://github.com/mgunnar)
 
 
 ## 🚀 Sobre mim
